@@ -63,13 +63,13 @@
     <Folder Include="dbo\Stored Procedures\" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="dbo\Tables\tblTreeNode_1.sql" />
-    <Build Include="dbo\Tables\tblTreeNode_backup_20250118_1.sql" />
-    <Build Include="dbo\Tables\tblTreeNode_DeleteLog_1.sql" />
-    <Build Include="dbo\Stored Procedures\tblTreeNode_Select_id_1.sql" />
-    <Build Include="dbo\Stored Procedures\tblTreeNode_Select_parentId_1.sql" />
-    <Build Include="dbo\Stored Procedures\tblTreeNode_Insert_1.sql" />
-    <Build Include="dbo\Stored Procedures\tblTreeNode_Update_1.sql" />
-    <Build Include="dbo\Stored Procedures\tblTreeNode_Delete_1.sql" />
+    <Build Include="dbo\Tables\tblTreeNode.sql" />
+    <Build Include="dbo\Tables\tblTreeNode_backup_20250118.sql" />
+    <Build Include="dbo\Tables\tblTreeNode_DeleteLog.sql" />
+    <Build Include="dbo\Stored Procedures\tblTreeNode_Select_id.sql" />
+    <Build Include="dbo\Stored Procedures\tblTreeNode_Select_parentId.sql" />
+    <Build Include="dbo\Stored Procedures\tblTreeNode_Insert.sql" />
+    <Build Include="dbo\Stored Procedures\tblTreeNode_Update.sql" />
+    <Build Include="dbo\Stored Procedures\tblTreeNode_Delete.sql" />
   </ItemGroup>
 </Project>
